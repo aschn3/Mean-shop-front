@@ -319,6 +319,11 @@ body {
 
 /*Carousel Pics*/
 
+.static-image{
+    width: 900px;
+    height: 350px;
+}
+
  .caro-pic{
  	z-index:9;
  	
